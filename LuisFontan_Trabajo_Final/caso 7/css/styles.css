@@ -1,0 +1,18 @@
+.flex-container{
+display:flex;
+background-color:burlywood;
+padding:10px;
+border:2px solid black;
+height:400px;
+align-items:stretch;
+}
+
+.flex-container div{
+background-color:gainsboro;
+width:8%;
+margin:10px;
+text-align:center;
+line-height:75px;
+font-size:30px;
+border:2px solid black;
+}
