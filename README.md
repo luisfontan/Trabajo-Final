@@ -29,19 +29,19 @@ Uso de 3 etiquetas DIV que se alinean **horizontalmente**, los elementos hijos s
 Uso de 3 etiquetas DIV que se alinean **horizontalmente** en el final del contenedor, uso de *display:flex;* y *align-items:flex-end;*
 
 ### Caso 9:
-Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo largo del contenedor, uso de *display:flex;*, *align-content:space-around;* (Distribuye las líneas a lo largo del eje, igualmente espaciados), *flex-wrap:wrap;* (especifica si los elementos hijos son obligados a permanecer en una misma línea o pueden fluir en varias líneas).
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, *align-content:space-around;* (Distribuye las líneas a lo largo del eje, igualmente espaciados), *flex-wrap:wrap;* (especifica si los elementos hijos son obligados a permanecer en una misma línea o pueden fluir en varias líneas).
 
 ### Caso 10:
-Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo largo del contenedor, uso de *display:flex;*, *align-content:space-between;* (Distribuye las líneas a lo largo del eje, pero de principio a fin), *flex-wrap:wrap;* (especifica si los elementos hijos son obligados a permanecer en una misma línea o pueden fluir en varias líneas).
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, *align-content:space-between;* (Distribuye las líneas a lo largo del eje, pero de principio a fin), *flex-wrap:wrap;* (explicado anteriormente).
 
 ### Caso 11:
-Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo largo del contenedor, uso de *display:flex;*, *align-content:stretch;* (los elementos hijos se estiran verticalmente, en proporción de la altura del contenedor), *flex-wrap:wrap;* (especifica si los elementos hijos son obligados a permanecer en una misma línea o pueden fluir en varias líneas).
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, *align-content:stretch;* (los elementos hijos se estiran verticalmente, en proporción de la altura del contenedor), *flex-wrap:wrap;*
 
 ### Caso 12:
-Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo largo del contenedor, uso de *display:flex;*, *align-content:center;* (Posiciona a los hijos en el centro del contenedor), *flex-wrap:wrap;* (especifica si los elementos hijos son obligados a permanecer en una misma línea o pueden fluir en varias líneas).
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, *align-content:center;* (Posiciona a los hijos en el centro del contenedor), *flex-wrap:wrap;*
 
 ### Caso 13:
-
+º
 
 ### Caso 14:
 
