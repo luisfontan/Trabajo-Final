@@ -53,6 +53,6 @@ Se usan 4 etiquetas DIV que se alinean **horizontalmente** a lo ancho del conten
 Se usan 12 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, y *flex-wrap:nowrap;* (Los elementos flex son distribuidos en una sola línea.)
 
 ## Archivo index.html
-He añadido este archivo extra voluntariamente que contiene links para cada uno de los distintos casos.
+He añadido un archivo extra voluntariamente, en la carpeta principal, que contiene links para cada uno de los distintos casos.
 
 En caso de reclamación contacte con <luis.fontan-diaz@iesruizgijon.com>
