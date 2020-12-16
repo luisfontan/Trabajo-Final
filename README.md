@@ -41,12 +41,13 @@ Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del conte
 Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, *align-content:center;* (Posiciona a los hijos en el centro del contenedor), *flex-wrap:wrap;*
 
 ### Caso 13:
-º
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, en su comienzo, con el uso de *display:flex;*, *align-content:flex-start;* (Posiciona a los hijos al comienzo del contenedor), *flex-wrap:wrap;*
 
 ### Caso 14:
-
+Se usan 10 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, en el final, haciendo uso de *display:flex;*, *align-content:flex-end;* (Posiciona a los hijos en el final del contenedor), *flex-wrap:wrap;*
 
 ### Caso 15:
-
+Se usan 4 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, y **CSS en línea** en cada elemento hijo: *style="flex-grow:n;"*. n es un número que mientras más grande sea, el hijo que tenga ese valor, será más grande que uno que tenga un número más pequeño.
 
 ### Caso 16:
+Se usan 12 etiquetas DIV que se alinean **horizontalmente** a lo ancho del contenedor, uso de *display:flex;*, y *flex-wrap:nowrap;* (Los elementos flex son distribuidos en una sola línea.)
